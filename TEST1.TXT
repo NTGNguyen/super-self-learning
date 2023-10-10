@@ -1,0 +1,5 @@
+#THƯ VIỆN FSTREAM
+-ifstream: Sử dụng để đọc dữ liệu từ file.
+-ofstream: Sử dụng để ghi dữ liệu ra file.
+-fstream: Sử dụng để vừa đọc và ghi dữ liệu bằng file.
+
